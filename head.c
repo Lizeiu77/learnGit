@@ -2,3 +2,6 @@
 
 int head(void)
 {return;}
+
+int cal(void)
+{return;}
