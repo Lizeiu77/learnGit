@@ -4,4 +4,7 @@
 #include "stdio.h"
 #include "test.h"
 
+int head();
+int read();
+
 #endif
